@@ -1,0 +1,74 @@
+#!/usr/bin/ruby -w
+
+require 'nokogiri'
+require 'pp'
+
+doc = Nokogiri::XML::parse(STDIN.read)
+
+ABR_SURFACE = {
+  'unpaved' => 'unp',
+  'compacted' => 'compact',
+  'ground' => 'gro'
+}
+def abr_surface(s)
+  return ABR_SURFACE[s] || s
+end
+
+ABR_SAC = {
+  'hiking' => '1',
+  'mountain_hiking' => '2',
+  'demanding_mountain_hiking' => '3',
+  'alpine_hiking' => '4',
+  'demanding_alpine_hiking' => '5',
+  'difficult_alpine_hiking' => '6'
+}
+def abr_sac(s)
+  return ABR_SAC[s] || s
+end  
+
+ABR_VIS = {
+  'excellent' => 'exc',
+  'intermediate' => 'int'
+}
+def abr_vis(s)
+  return ABR_VIS[s] || s
+end
+
+doc.xpath('/osm/way').each do |way|
+  highway = (e = way.xpath('tag[@k=\'highway\']').first) ? e['v'] : nil
+  next if highway.nil? or not ['path', 'track'].include?(highway)
+  tracktype = (e = way.xpath('tag[@k=\'tracktype\']').first) ? e['v'] : nil
+  surface = (e = way.xpath('tag[@k=\'surface\']').first) ? e['v'] : nil
+  smoothness = (e = way.xpath('tag[@k=\'smoothness\']').first) ? e['v'] : nil
+  sac_scale = (e = way.xpath('tag[@k=\'sac_scale\']').first) ? e['v'] : nil
+  trail_visibility = (e = way.xpath('tag[@k=\'trail_visibility\']').first) ? e['v'] : nil
+  mtbscale = (e = way.xpath('tag[@k=\'mtb:scale\']').first) ? e['v'] : nil
+  mtbscaleup = (e = way.xpath('tag[@k=\'mtb:scale:uphill\']').first) ? e['v'] : nil
+  incline = (e = way.xpath('tag[@k=\'incline\']').first) ? e['v'] : nil
+  
+  if highway == 'track'
+    s = 'TRK'
+  else
+    s = 'PTH'
+  end
+  s += " g#{tracktype.gsub('grade', '')}" if tracktype
+  s += " su#{abr_surface(surface)}" if surface
+  s += " sm#{smoothness}" if smoothness
+
+  s += " mtb#{mtbscale}" if mtbscale
+  s += " mtbu#{mtbscaleup}" if mtbscaleup
+  s += " i#{incline}" if incline
+  s += " sac#{abr_sac(sac_scale)}" if sac_scale
+  s += " vis#{abr_vis(trail_visibility)}" if trail_visibility
+
+  name = way.xpath('tag[@k=\'name\']').first
+  if name
+    name['v'] = s + ' ' + name['v']
+  else
+    name = Nokogiri::XML::Node.new "tag", doc
+    name['k'] = 'name'
+    name['v'] = s
+    way.children.after(name)
+  end
+end
+puts doc
