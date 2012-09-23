@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Garmin\MapSource\Families\Sample]
+"ID"=hex:2c,01
+"TYP"="c:\\gps\\sample\\M00300.typ"
+"IDX"="c:\\gps\\sample\\M00300.mdx"
+"MDR"="c:\\gps\\sample\\M00300_mdr.img"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Garmin\MapSource\Families\Sample\1]
+"TDB"="c:\\gps\\sample\\M00300.tdb"
+"BMAP"="c:\\gps\\sample\\basemap.img"
+"LOC"="c:\\gps\\sample"
