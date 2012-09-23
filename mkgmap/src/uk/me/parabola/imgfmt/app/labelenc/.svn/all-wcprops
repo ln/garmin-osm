@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/imgfmt/app/labelenc
+END
+SparseTransliterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mkgmap/!svn/ver/2064/trunk/src/uk/me/parabola/imgfmt/app/labelenc/SparseTransliterator.java
+END
+DecodedText.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/1771/trunk/src/uk/me/parabola/imgfmt/app/labelenc/DecodedText.java
+END
+CharacterEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mkgmap/!svn/ver/113/trunk/src/uk/me/parabola/imgfmt/app/labelenc/CharacterEncoder.java
+END
+AnyCharsetEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/imgfmt/app/labelenc/AnyCharsetEncoder.java
+END
+CodeFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/imgfmt/app/labelenc/CodeFunctions.java
+END
+Format6Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/labelenc/Format6Decoder.java
+END
+EncodedText.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/1283/trunk/src/uk/me/parabola/imgfmt/app/labelenc/EncodedText.java
+END
+TableCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/367/trunk/src/uk/me/parabola/imgfmt/app/labelenc/TableCreator.java
+END
+LatinEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mkgmap/!svn/ver/1968/trunk/src/uk/me/parabola/imgfmt/app/labelenc/LatinEncoder.java
+END
+NullTransliterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mkgmap/!svn/ver/2008/trunk/src/uk/me/parabola/imgfmt/app/labelenc/NullTransliterator.java
+END
+BaseEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/1614/trunk/src/uk/me/parabola/imgfmt/app/labelenc/BaseEncoder.java
+END
+Utf8Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/labelenc/Utf8Decoder.java
+END
+Transliterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/1968/trunk/src/uk/me/parabola/imgfmt/app/labelenc/Transliterator.java
+END
+Format6Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/1968/trunk/src/uk/me/parabola/imgfmt/app/labelenc/Format6Encoder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/179/trunk/src/uk/me/parabola/imgfmt/app/labelenc/package.html
+END
+Simple8Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mkgmap/!svn/ver/113/trunk/src/uk/me/parabola/imgfmt/app/labelenc/Simple8Encoder.java
+END
+CharacterDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/labelenc/CharacterDecoder.java
+END
+TableTransliterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/imgfmt/app/labelenc/TableTransliterator.java
+END
+Utf8Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/imgfmt/app/labelenc/Utf8Encoder.java
+END
+AnyCharsetDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/labelenc/AnyCharsetDecoder.java
+END

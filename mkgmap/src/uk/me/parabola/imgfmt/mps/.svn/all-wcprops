@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/mps
+END
+MapBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/mps/MapBlock.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mkgmap/!svn/ver/711/trunk/src/uk/me/parabola/imgfmt/mps/Block.java
+END
+ProductBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/1443/trunk/src/uk/me/parabola/imgfmt/mps/ProductBlock.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/1443/trunk/src/uk/me/parabola/imgfmt/mps/package.html
+END
+MpsFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/1443/trunk/src/uk/me/parabola/imgfmt/mps/MpsFile.java
+END
+MpsFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/mps/MpsFileReader.java
+END
+MapsetBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/549/trunk/src/uk/me/parabola/imgfmt/mps/MapsetBlock.java
+END

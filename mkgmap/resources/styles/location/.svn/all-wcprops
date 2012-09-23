@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mkgmap/!svn/ver/2107/trunk/resources/styles/location
+END
+info
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mkgmap/!svn/ver/2106/trunk/resources/styles/location/info
+END
+points
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mkgmap/!svn/ver/2107/trunk/resources/styles/location/points
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mkgmap/!svn/ver/2106/trunk/resources/styles/location/version
+END
+lines
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mkgmap/!svn/ver/2107/trunk/resources/styles/location/lines
+END
+polygons
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mkgmap/!svn/ver/2107/trunk/resources/styles/location/polygons
+END

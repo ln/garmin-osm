@@ -1,0 +1,116 @@
+10
+
+dir
+2332
+http://svn.parabola.me.uk/mkgmap/trunk/resources/styles
+http://svn.parabola.me.uk/mkgmap
+
+
+
+2012-08-15T20:07:57.227970Z
+2314
+marko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25d90789-57f7-4ee0-8453-03a3dfeeeb22
+
+builtin-tag-list
+file
+
+
+
+
+2012-09-16T16:23:00.804309Z
+5892f7801a4930d9bc57a77de7b2a5ee
+2011-08-29T19:46:37.838103Z
+2020
+wanmil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+447
+
+routes-bicycle
+dir
+
+landuse
+dir
+
+routes-road
+dir
+
+floodblocker
+dir
+
+contours_ft
+dir
+
+routes-ski
+dir
+
+waters
+dir
+
+routes-rail
+dir
+
+routes-ferry
+dir
+
+routes-bus
+dir
+
+location
+dir
+
+marine
+dir
+
+noname
+dir
+
+test
+dir
+
+control
+dir
+
+routes
+dir
+
+default
+dir
+
+routes-foot
+dir
+

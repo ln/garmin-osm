@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mkgmap/!svn/ver/2297/trunk/test/uk/me/parabola/mkgmap/osmstyle
+END
+RuleFileReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mkgmap/!svn/ver/2297/trunk/test/uk/me/parabola/mkgmap/osmstyle/RuleFileReaderTest.java
+END
+StyledConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mkgmap/!svn/ver/2097/trunk/test/uk/me/parabola/mkgmap/osmstyle/StyledConverterTest.java
+END
+ActionReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mkgmap/!svn/ver/1870/trunk/test/uk/me/parabola/mkgmap/osmstyle/ActionReaderTest.java
+END
+StyleImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/1870/trunk/test/uk/me/parabola/mkgmap/osmstyle/StyleImplTest.java
+END
+RuleSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mkgmap/!svn/ver/1771/trunk/test/uk/me/parabola/mkgmap/osmstyle/RuleSetTest.java
+END
+TypeReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/2023/trunk/test/uk/me/parabola/mkgmap/osmstyle/TypeReaderTest.java
+END

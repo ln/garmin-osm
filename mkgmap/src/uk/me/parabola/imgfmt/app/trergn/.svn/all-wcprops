@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mkgmap/!svn/ver/2263/trunk/src/uk/me/parabola/imgfmt/app/trergn
+END
+RGNFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/imgfmt/app/trergn/RGNFileReader.java
+END
+ExtTypeAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mkgmap/!svn/ver/2263/trunk/src/uk/me/parabola/imgfmt/app/trergn/ExtTypeAttributes.java
+END
+TREFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/1771/trunk/src/uk/me/parabola/imgfmt/app/trergn/TREFileReader.java
+END
+PolygonOverview.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mkgmap/!svn/ver/507/trunk/src/uk/me/parabola/imgfmt/app/trergn/PolygonOverview.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/507/trunk/src/uk/me/parabola/imgfmt/app/trergn/package.html
+END
+PointOverview.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/507/trunk/src/uk/me/parabola/imgfmt/app/trergn/PointOverview.java
+END
+PolylineOverview.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mkgmap/!svn/ver/507/trunk/src/uk/me/parabola/imgfmt/app/trergn/PolylineOverview.java
+END
+Zoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/632/trunk/src/uk/me/parabola/imgfmt/app/trergn/Zoom.java
+END
+SubdivData.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mkgmap/!svn/ver/1283/trunk/src/uk/me/parabola/imgfmt/app/trergn/SubdivData.java
+END
+RGNFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/1283/trunk/src/uk/me/parabola/imgfmt/app/trergn/RGNFile.java
+END
+Polygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/507/trunk/src/uk/me/parabola/imgfmt/app/trergn/Polygon.java
+END
+LinePreparer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/imgfmt/app/trergn/LinePreparer.java
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/1283/trunk/src/uk/me/parabola/imgfmt/app/trergn/Point.java
+END
+TREFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/imgfmt/app/trergn/TREFile.java
+END
+Polyline.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/2098/trunk/src/uk/me/parabola/imgfmt/app/trergn/Polyline.java
+END
+MapValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/imgfmt/app/trergn/MapValues.java
+END
+Subdivision.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/imgfmt/app/trergn/Subdivision.java
+END
+RGNHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1283/trunk/src/uk/me/parabola/imgfmt/app/trergn/RGNHeader.java
+END
+InternalFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/842/trunk/src/uk/me/parabola/imgfmt/app/trergn/InternalFiles.java
+END
+TREHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/trergn/TREHeader.java
+END
+MapObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1649/trunk/src/uk/me/parabola/imgfmt/app/trergn/MapObject.java
+END
+Overview.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1771/trunk/src/uk/me/parabola/imgfmt/app/trergn/Overview.java
+END

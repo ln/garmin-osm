@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mkgmap/!svn/ver/2279/trunk/src/uk/me/parabola/mkgmap/build
+END
+Locator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2271/trunk/src/uk/me/parabola/mkgmap/build/Locator.java
+END
+MapBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/2220/trunk/src/uk/me/parabola/mkgmap/build/MapBuilder.java
+END
+MapSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2279/trunk/src/uk/me/parabola/mkgmap/build/MapSplitter.java
+END
+LayerFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mkgmap/!svn/ver/417/trunk/src/uk/me/parabola/mkgmap/build/LayerFilterChain.java
+END
+MapArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2276/trunk/src/uk/me/parabola/mkgmap/build/MapArea.java
+END
+LocatorConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/2271/trunk/src/uk/me/parabola/mkgmap/build/LocatorConfig.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/417/trunk/src/uk/me/parabola/mkgmap/build/package.html
+END
+LocatorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/mkgmap/build/LocatorUtil.java
+END

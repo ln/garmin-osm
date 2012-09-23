@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mkgmap/!svn/ver/2313/trunk/src/uk/me/parabola/mkgmap/scan
+END
+TokType.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/694/trunk/src/uk/me/parabola/mkgmap/scan/TokType.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mkgmap/!svn/ver/1972/trunk/src/uk/me/parabola/mkgmap/scan/Token.java
+END
+SyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/mkgmap/scan/SyntaxException.java
+END
+WordInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/1710/trunk/src/uk/me/parabola/mkgmap/scan/WordInfo.java
+END
+TokenScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2313/trunk/src/uk/me/parabola/mkgmap/scan/TokenScanner.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mkgmap/!svn/ver/2278/trunk/src/uk/me/parabola/mkgmap/reader/osm/xml
+END
+Osm5PrecompSeaDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mkgmap/!svn/ver/2278/trunk/src/uk/me/parabola/mkgmap/reader/osm/xml/Osm5PrecompSeaDataSource.java
+END
+Osm5XmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mkgmap/!svn/ver/2147/trunk/src/uk/me/parabola/mkgmap/reader/osm/xml/Osm5XmlHandler.java
+END
+Osm5CoastDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mkgmap/!svn/ver/2278/trunk/src/uk/me/parabola/mkgmap/reader/osm/xml/Osm5CoastDataSource.java
+END
+Osm5MapDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mkgmap/!svn/ver/1752/trunk/src/uk/me/parabola/mkgmap/reader/osm/xml/Osm5MapDataSource.java
+END

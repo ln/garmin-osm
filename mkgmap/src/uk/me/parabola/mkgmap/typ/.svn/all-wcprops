@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mkgmap/!svn/ver/2289/trunk/src/uk/me/parabola/mkgmap/typ
+END
+ProcessSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/mkgmap/typ/ProcessSection.java
+END
+TypTextReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2214/trunk/src/uk/me/parabola/mkgmap/typ/TypTextReader.java
+END
+IgnoreSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2214/trunk/src/uk/me/parabola/mkgmap/typ/IgnoreSection.java
+END
+LineSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/2289/trunk/src/uk/me/parabola/mkgmap/typ/LineSection.java
+END
+PolygonSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/mkgmap/typ/PolygonSection.java
+END
+CommonSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2188/trunk/src/uk/me/parabola/mkgmap/typ/CommonSection.java
+END
+IconSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/mkgmap/typ/IconSection.java
+END
+DrawOrderSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/2187/trunk/src/uk/me/parabola/mkgmap/typ/DrawOrderSection.java
+END
+PointSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/mkgmap/typ/PointSection.java
+END
+IdSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/mkgmap/typ/IdSection.java
+END

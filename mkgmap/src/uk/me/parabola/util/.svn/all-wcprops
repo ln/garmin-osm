@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mkgmap/!svn/ver/2206/trunk/src/uk/me/parabola/util
+END
+ElementQuadTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/util/ElementQuadTreeNode.java
+END
+QuadTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/util/QuadTree.java
+END
+MultiHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mkgmap/!svn/ver/2014/trunk/src/uk/me/parabola/util/MultiHashMap.java
+END
+GpxCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/util/GpxCreator.java
+END
+Java2DConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2206/trunk/src/uk/me/parabola/util/Java2DConverter.java
+END
+Configurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/util/Configurable.java
+END
+QuadTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/util/QuadTreeNode.java
+END
+EnhancedProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/util/EnhancedProperties.java
+END
+ElementQuadTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/util/ElementQuadTree.java
+END

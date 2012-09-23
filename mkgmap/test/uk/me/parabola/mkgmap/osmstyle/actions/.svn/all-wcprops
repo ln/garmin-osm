@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/1751/trunk/test/uk/me/parabola/mkgmap/osmstyle/actions
+END
+HighwaySymbolFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mkgmap/!svn/ver/1439/trunk/test/uk/me/parabola/mkgmap/osmstyle/actions/HighwaySymbolFilterTest.java
+END
+AddTagActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mkgmap/!svn/ver/1751/trunk/test/uk/me/parabola/mkgmap/osmstyle/actions/AddTagActionTest.java
+END

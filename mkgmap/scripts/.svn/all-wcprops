@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/mkgmap/!svn/ver/2268/trunk/scripts
+END
+make-transliteration-table.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mkgmap/!svn/ver/1519/trunk/scripts/make-transliteration-table.pl
+END
+namesum.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mkgmap/!svn/ver/1650/trunk/scripts/namesum.py
+END
+new_style.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mkgmap/!svn/ver/694/trunk/scripts/new_style.py
+END
+mk_map_table.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mkgmap/!svn/ver/253/trunk/scripts/mk_map_table.py
+END
+imgfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mkgmap/!svn/ver/1650/trunk/scripts/imgfile.py
+END
+munger.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mkgmap/!svn/ver/1650/trunk/scripts/munger.py
+END
+gmapi-builder.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mkgmap/!svn/ver/1650/trunk/scripts/gmapi-builder.py
+END
+checksum.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mkgmap/!svn/ver/1650/trunk/scripts/checksum.py
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/mkgmap/main
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/mkgmap/main/Main.java
+END
+StyleTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/2271/trunk/src/uk/me/parabola/mkgmap/main/StyleTester.java
+END
+TypCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/2141/trunk/src/uk/me/parabola/mkgmap/main/TypCompiler.java
+END
+MakeTestLangMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/mkgmap/main/MakeTestLangMap.java
+END
+MapMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2271/trunk/src/uk/me/parabola/mkgmap/main/MapMaker.java
+END
+MapProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/1052/trunk/src/uk/me/parabola/mkgmap/main/MapProcessor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/448/trunk/src/uk/me/parabola/mkgmap/main/package.html
+END
+Preparer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2271/trunk/src/uk/me/parabola/mkgmap/main/Preparer.java
+END
+AbstractTestMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/mkgmap/main/AbstractTestMap.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mkgmap/!svn/ver/2316/trunk/src/uk/me/parabola/imgfmt
+END
+FileExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/206/trunk/src/uk/me/parabola/imgfmt/FileExistsException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mkgmap/!svn/ver/206/trunk/src/uk/me/parabola/imgfmt/package.html
+END
+ReadFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/553/trunk/src/uk/me/parabola/imgfmt/ReadFailedException.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mkgmap/!svn/ver/2298/trunk/src/uk/me/parabola/imgfmt/Utils.java
+END
+MapFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/1634/trunk/src/uk/me/parabola/imgfmt/MapFailedException.java
+END
+FileSystemParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/imgfmt/FileSystemParam.java
+END
+FormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/imgfmt/FormatException.java
+END
+ExitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/818/trunk/src/uk/me/parabola/imgfmt/ExitException.java
+END
+FileNotWritableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/570/trunk/src/uk/me/parabola/imgfmt/FileNotWritableException.java
+END

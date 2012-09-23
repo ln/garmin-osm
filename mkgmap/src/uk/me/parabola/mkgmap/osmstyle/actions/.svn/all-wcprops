@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/2281/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions
+END
+DefaultFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mkgmap/!svn/ver/1439/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/DefaultFilter.java
+END
+ValueItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mkgmap/!svn/ver/1627/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/ValueItem.java
+END
+HighwaySymbolFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mkgmap/!svn/ver/1439/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/HighwaySymbolFilter.java
+END
+NotEqualFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mkgmap/!svn/ver/1439/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/NotEqualFilter.java
+END
+DeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mkgmap/!svn/ver/1562/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/DeleteAction.java
+END
+ActionReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/ActionReader.java
+END
+PrependFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/PrependFilter.java
+END
+RenameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mkgmap/!svn/ver/738/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/RenameAction.java
+END
+ActionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/1562/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/ActionList.java
+END
+EchoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/2008/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/EchoAction.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mkgmap/!svn/ver/785/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/Action.java
+END
+NameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/1627/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/NameAction.java
+END
+HeightFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mkgmap/!svn/ver/1439/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/HeightFilter.java
+END
+SubstitutionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mkgmap/!svn/ver/1439/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/SubstitutionFilter.java
+END
+AddTagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mkgmap/!svn/ver/1627/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/AddTagAction.java
+END
+ValueFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mkgmap/!svn/ver/2281/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/ValueFilter.java
+END
+ValueBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mkgmap/!svn/ver/2008/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/ValueBuilder.java
+END
+ConvertFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mkgmap/!svn/ver/1439/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/ConvertFilter.java
+END
+SubstringFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mkgmap/!svn/ver/1708/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/SubstringFilter.java
+END
+SubAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mkgmap/!svn/ver/1562/trunk/src/uk/me/parabola/mkgmap/osmstyle/actions/SubAction.java
+END

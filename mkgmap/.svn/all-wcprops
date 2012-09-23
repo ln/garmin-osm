@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/mkgmap/!svn/ver/2328/trunk
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/mkgmap/!svn/ver/827/trunk/ChangeLog
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mkgmap/!svn/ver/2237/trunk/ivysettings.xml
+END
+mkgmap.iml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/mkgmap/!svn/ver/2237/trunk/mkgmap.iml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/mkgmap/!svn/ver/1196/trunk/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/mkgmap/!svn/ver/1870/trunk/Makefile
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/mkgmap/!svn/ver/2307/trunk/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/mkgmap/!svn/ver/2237/trunk/.classpath
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/mkgmap/!svn/ver/53/trunk/LICENCE
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/mkgmap/!svn/ver/858/trunk/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/mkgmap/!svn/ver/2237/trunk/.gitignore
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/mkgmap/!svn/ver/2248/trunk/ivy.xml
+END

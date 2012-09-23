@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mkgmap/!svn/ver/2316/trunk/src/uk/me/parabola/imgfmt/app/srt
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/2316/trunk/src/uk/me/parabola/imgfmt/app/srt/Sort.java
+END
+SRTFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/1972/trunk/src/uk/me/parabola/imgfmt/app/srt/SRTFile.java
+END
+SrtSortKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/1926/trunk/src/uk/me/parabola/imgfmt/app/srt/SrtSortKey.java
+END
+MultiSortKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1995/trunk/src/uk/me/parabola/imgfmt/app/srt/MultiSortKey.java
+END
+IntegerSortKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/srt/IntegerSortKey.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/1537/trunk/src/uk/me/parabola/imgfmt/app/srt/package.html
+END
+CodePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/2008/trunk/src/uk/me/parabola/imgfmt/app/srt/CodePosition.java
+END
+SortKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/srt/SortKey.java
+END
+CombinedSortKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/2008/trunk/src/uk/me/parabola/imgfmt/app/srt/CombinedSortKey.java
+END
+SRTHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/srt/SRTHeader.java
+END

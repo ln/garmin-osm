@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mkgmap/!svn/ver/2306/trunk/test/resources/teststyles/main
+END
+points
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mkgmap/!svn/ver/2306/trunk/test/resources/teststyles/main/points
+END
+relations
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mkgmap/!svn/ver/831/trunk/test/resources/teststyles/main/relations
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mkgmap/!svn/ver/831/trunk/test/resources/teststyles/main/version
+END
+lines
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mkgmap/!svn/ver/1548/trunk/test/resources/teststyles/main/lines
+END
+polygons
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mkgmap/!svn/ver/831/trunk/test/resources/teststyles/main/polygons
+END
+info
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mkgmap/!svn/ver/831/trunk/test/resources/teststyles/main/info
+END
+options
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mkgmap/!svn/ver/831/trunk/test/resources/teststyles/main/options
+END

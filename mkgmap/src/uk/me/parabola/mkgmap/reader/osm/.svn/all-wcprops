@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mkgmap/!svn/ver/2328/trunk/src/uk/me/parabola/mkgmap/reader/osm
+END
+Relation.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/mkgmap/reader/osm/Relation.java
+END
+SeaPolygonRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/mkgmap/reader/osm/SeaPolygonRelation.java
+END
+CoordPOI.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1404/trunk/src/uk/me/parabola/mkgmap/reader/osm/CoordPOI.java
+END
+POIGeneratorHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/2271/trunk/src/uk/me/parabola/mkgmap/reader/osm/POIGeneratorHook.java
+END
+TypeResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mkgmap/!svn/ver/1548/trunk/src/uk/me/parabola/mkgmap/reader/osm/TypeResult.java
+END
+UnusedElementsRemoverHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mkgmap/!svn/ver/2266/trunk/src/uk/me/parabola/mkgmap/reader/osm/UnusedElementsRemoverHook.java
+END
+MultiPolygonFinishHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/mkgmap/reader/osm/MultiPolygonFinishHook.java
+END
+GType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/1562/trunk/src/uk/me/parabola/mkgmap/reader/osm/GType.java
+END
+LocationHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/2328/trunk/src/uk/me/parabola/mkgmap/reader/osm/LocationHook.java
+END
+OsmReadingHooks.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mkgmap/!svn/ver/1752/trunk/src/uk/me/parabola/mkgmap/reader/osm/OsmReadingHooks.java
+END
+RestrictionRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mkgmap/!svn/ver/1914/trunk/src/uk/me/parabola/mkgmap/reader/osm/RestrictionRelation.java
+END
+OsmReadingHooksAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mkgmap/!svn/ver/1752/trunk/src/uk/me/parabola/mkgmap/reader/osm/OsmReadingHooksAdaptor.java
+END
+OsmMapDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/2163/trunk/src/uk/me/parabola/mkgmap/reader/osm/OsmMapDataSource.java
+END
+RoutingHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/mkgmap/reader/osm/RoutingHook.java
+END
+CoastlineFileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mkgmap/!svn/ver/2278/trunk/src/uk/me/parabola/mkgmap/reader/osm/CoastlineFileLoader.java
+END
+PrecompSeaElementSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mkgmap/!svn/ver/2278/trunk/src/uk/me/parabola/mkgmap/reader/osm/PrecompSeaElementSaver.java
+END
+StyleInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/2097/trunk/src/uk/me/parabola/mkgmap/reader/osm/StyleInfo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/973/trunk/src/uk/me/parabola/mkgmap/reader/osm/package.html
+END
+RelationStyleHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/mkgmap/reader/osm/RelationStyleHook.java
+END
+SeaGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/2307/trunk/src/uk/me/parabola/mkgmap/reader/osm/SeaGenerator.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/1548/trunk/src/uk/me/parabola/mkgmap/reader/osm/Node.java
+END
+OsmConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/1704/trunk/src/uk/me/parabola/mkgmap/reader/osm/OsmConverter.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2008/trunk/src/uk/me/parabola/mkgmap/reader/osm/Element.java
+END
+ElementSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/2159/trunk/src/uk/me/parabola/mkgmap/reader/osm/ElementSaver.java
+END
+FakeIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mkgmap/!svn/ver/2307/trunk/src/uk/me/parabola/mkgmap/reader/osm/FakeIdGenerator.java
+END
+WatchableTypeResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/mkgmap/reader/osm/WatchableTypeResult.java
+END
+OsmHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mkgmap/!svn/ver/1704/trunk/src/uk/me/parabola/mkgmap/reader/osm/OsmHandler.java
+END
+CoastlineElementSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mkgmap/!svn/ver/2278/trunk/src/uk/me/parabola/mkgmap/reader/osm/CoastlineElementSaver.java
+END
+Tags.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/2271/trunk/src/uk/me/parabola/mkgmap/reader/osm/Tags.java
+END
+OsmReadingHooksChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mkgmap/!svn/ver/1873/trunk/src/uk/me/parabola/mkgmap/reader/osm/OsmReadingHooksChain.java
+END
+MultiPolygonRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mkgmap/!svn/ver/2311/trunk/src/uk/me/parabola/mkgmap/reader/osm/MultiPolygonRelation.java
+END
+Style.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/1694/trunk/src/uk/me/parabola/mkgmap/reader/osm/Style.java
+END
+Way.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/2179/trunk/src/uk/me/parabola/mkgmap/reader/osm/Way.java
+END
+HighwayHooks.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/2020/trunk/src/uk/me/parabola/mkgmap/reader/osm/HighwayHooks.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/mkgmap/reader/osm/Rule.java
+END
+GeneralRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mkgmap/!svn/ver/849/trunk/src/uk/me/parabola/mkgmap/reader/osm/GeneralRelation.java
+END

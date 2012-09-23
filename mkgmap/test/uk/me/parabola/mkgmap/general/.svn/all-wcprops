@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mkgmap/!svn/ver/2271/trunk/test/uk/me/parabola/mkgmap/general
+END
+PointInShapeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mkgmap/!svn/ver/1751/trunk/test/uk/me/parabola/mkgmap/general/PointInShapeTest.java
+END
+LineClipperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/996/trunk/test/uk/me/parabola/mkgmap/general/LineClipperTest.java
+END
+MapPointKdTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/2271/trunk/test/uk/me/parabola/mkgmap/general/MapPointKdTreeTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mkgmap/!svn/ver/787/trunk/test/resources/teststyles/empty
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mkgmap/!svn/ver/787/trunk/test/resources/teststyles/empty/version
+END
+points
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mkgmap/!svn/ver/787/trunk/test/resources/teststyles/empty/points
+END
+relations
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mkgmap/!svn/ver/787/trunk/test/resources/teststyles/empty/relations
+END

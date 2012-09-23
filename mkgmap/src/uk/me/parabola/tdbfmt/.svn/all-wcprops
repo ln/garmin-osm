@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/tdbfmt
+END
+RBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mkgmap/!svn/ver/712/trunk/src/uk/me/parabola/tdbfmt/RBlock.java
+END
+TBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mkgmap/!svn/ver/627/trunk/src/uk/me/parabola/tdbfmt/TBlock.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mkgmap/!svn/ver/973/trunk/src/uk/me/parabola/tdbfmt/package.html
+END
+OverviewMapBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/tdbfmt/OverviewMapBlock.java
+END
+CopyrightBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/549/trunk/src/uk/me/parabola/tdbfmt/CopyrightBlock.java
+END
+HeaderBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/1576/trunk/src/uk/me/parabola/tdbfmt/HeaderBlock.java
+END
+TdbFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/tdbfmt/TdbFile.java
+END
+TestTdb.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mkgmap/!svn/ver/356/trunk/src/uk/me/parabola/tdbfmt/TestTdb.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mkgmap/!svn/ver/549/trunk/src/uk/me/parabola/tdbfmt/Block.java
+END
+CopyrightSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/tdbfmt/CopyrightSegment.java
+END
+DetailMapBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/tdbfmt/DetailMapBlock.java
+END

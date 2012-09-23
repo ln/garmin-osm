@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mkgmap/!svn/ver/1564/trunk/test/resources/rules
+END
+chain1.test
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mkgmap/!svn/ver/1548/trunk/test/resources/rules/chain1.test
+END
+chain2.test
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mkgmap/!svn/ver/1548/trunk/test/resources/rules/chain2.test
+END
+continue.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mkgmap/!svn/ver/1548/trunk/test/resources/rules/continue.test
+END
+action-order.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mkgmap/!svn/ver/1548/trunk/test/resources/rules/action-order.test
+END
+actions-once-with-or.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/1564/trunk/test/resources/rules/actions-once-with-or.test
+END
+or-list.test
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mkgmap/!svn/ver/1564/trunk/test/resources/rules/or-list.test
+END
+types-once-with-or.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/1564/trunk/test/resources/rules/types-once-with-or.test
+END
+fails-on-purpose.fail
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/1548/trunk/test/resources/rules/fails-on-purpose.fail
+END

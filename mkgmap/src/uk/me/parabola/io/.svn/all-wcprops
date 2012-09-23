@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/io
+END
+StructuredInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/io/StructuredInputStream.java
+END
+StructuredOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/io/StructuredOutputStream.java
+END
+EndOfFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/549/trunk/src/uk/me/parabola/io/EndOfFileException.java
+END

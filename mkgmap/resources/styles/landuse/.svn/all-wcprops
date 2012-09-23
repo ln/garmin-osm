@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mkgmap/!svn/ver/2109/trunk/resources/styles/landuse
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mkgmap/!svn/ver/2109/trunk/resources/styles/landuse/version
+END
+polygons
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mkgmap/!svn/ver/2109/trunk/resources/styles/landuse/polygons
+END
+info
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mkgmap/!svn/ver/2109/trunk/resources/styles/landuse/info
+END
+points
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mkgmap/!svn/ver/2109/trunk/resources/styles/landuse/points
+END

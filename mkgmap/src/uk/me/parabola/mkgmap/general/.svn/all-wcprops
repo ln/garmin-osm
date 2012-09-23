@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mkgmap/!svn/ver/2271/trunk/src/uk/me/parabola/mkgmap/general
+END
+MapDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/mkgmap/general/MapDetails.java
+END
+LevelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/818/trunk/src/uk/me/parabola/mkgmap/general/LevelInfo.java
+END
+MapRoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/1580/trunk/src/uk/me/parabola/mkgmap/general/MapRoad.java
+END
+MapCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1704/trunk/src/uk/me/parabola/mkgmap/general/MapCollector.java
+END
+MapLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/mkgmap/general/MapLine.java
+END
+MapPointKdTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mkgmap/!svn/ver/2271/trunk/src/uk/me/parabola/mkgmap/general/MapPointKdTree.java
+END
+MapPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/984/trunk/src/uk/me/parabola/mkgmap/general/MapPoint.java
+END
+MapElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2227/trunk/src/uk/me/parabola/mkgmap/general/MapElement.java
+END
+LineAdder.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/818/trunk/src/uk/me/parabola/mkgmap/general/LineAdder.java
+END
+AreaClipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/842/trunk/src/uk/me/parabola/mkgmap/general/AreaClipper.java
+END
+MapDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/mkgmap/general/MapDataSource.java
+END
+NullClipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/818/trunk/src/uk/me/parabola/mkgmap/general/NullClipper.java
+END
+Clipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/818/trunk/src/uk/me/parabola/mkgmap/general/Clipper.java
+END
+MapShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/2049/trunk/src/uk/me/parabola/mkgmap/general/MapShape.java
+END
+RoadNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/mkgmap/general/RoadNetwork.java
+END
+MapPointMultiMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/mkgmap/general/MapPointMultiMap.java
+END
+MapPointFastFindMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/1771/trunk/src/uk/me/parabola/mkgmap/general/MapPointFastFindMap.java
+END
+LineClipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1954/trunk/src/uk/me/parabola/mkgmap/general/LineClipper.java
+END
+PolygonClipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mkgmap/!svn/ver/1864/trunk/src/uk/me/parabola/mkgmap/general/PolygonClipper.java
+END
+LoadableMapDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/mkgmap/general/LoadableMapDataSource.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/973/trunk/src/uk/me/parabola/mkgmap/general/package.html
+END
+MapExitPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/mkgmap/general/MapExitPoint.java
+END

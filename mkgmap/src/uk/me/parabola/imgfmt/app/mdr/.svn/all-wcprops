@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/imgfmt/app/mdr
+END
+HasHeaderFlags.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/HasHeaderFlags.java
+END
+Mdr1.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr1.java
+END
+Mdr4Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr4Record.java
+END
+MdrMapSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/MdrMapSection.java
+END
+Mdr5.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/2169/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr5.java
+END
+Mdr6Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr6Record.java
+END
+Mdr7.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr7.java
+END
+Mdr8Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr8Record.java
+END
+Mdr9.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr9.java
+END
+MDRFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/imgfmt/app/mdr/MDRFile.java
+END
+Mdr10Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1771/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr10Record.java
+END
+Mdr11.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2210/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr11.java
+END
+Mdr12Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr12Record.java
+END
+Mdr21.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr21.java
+END
+PrefixIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/PrefixIndex.java
+END
+Mdr13.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr13.java
+END
+Mdr14Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr14Record.java
+END
+Mdr23.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr23.java
+END
+Mdr15.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr15.java
+END
+Mdr25.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr25.java
+END
+Mdr1MapIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr1MapIndex.java
+END
+Mdr18Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr18Record.java
+END
+Mdr17.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr17.java
+END
+Mdr27.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr27.java
+END
+Mdr28Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr28Record.java
+END
+Mdr19.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr19.java
+END
+Mdr29.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr29.java
+END
+ConfigBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/1551/trunk/src/uk/me/parabola/imgfmt/app/mdr/ConfigBase.java
+END
+Mdr1Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr1Record.java
+END
+MdrUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/MdrUtils.java
+END
+Mdr4.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr4.java
+END
+Mdr5Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/1995/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr5Record.java
+END
+MdrSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/MdrSection.java
+END
+Mdr6.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr6.java
+END
+Mdr7Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/1995/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr7Record.java
+END
+MdrConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/MdrConfig.java
+END
+RecordBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/RecordBase.java
+END
+Mdr8.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr8.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/package.html
+END
+Mdr10.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr10.java
+END
+Mdr11Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr11Record.java
+END
+NamedRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/NamedRecord.java
+END
+Mdr20.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2169/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr20.java
+END
+Mdr12.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr12.java
+END
+Mdr13Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr13Record.java
+END
+Mdr22.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr22.java
+END
+Mdr1SubHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr1SubHeader.java
+END
+Mdr14.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr14.java
+END
+Mdr24.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr24.java
+END
+Mdr26.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr26.java
+END
+Mdr18.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr18.java
+END
+MDRHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/imgfmt/app/mdr/MDRHeader.java
+END
+Mdr28.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr28.java
+END
+Mdr29Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr29Record.java
+END
+Mdr2x.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2162/trunk/src/uk/me/parabola/imgfmt/app/mdr/Mdr2x.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mkgmap/!svn/ver/1548/trunk/test/resources/teststyles/simple
+END
+lines
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mkgmap/!svn/ver/1548/trunk/test/resources/teststyles/simple/lines
+END
+info
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mkgmap/!svn/ver/785/trunk/test/resources/teststyles/simple/info
+END
+options
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mkgmap/!svn/ver/785/trunk/test/resources/teststyles/simple/options
+END
+overlays
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mkgmap/!svn/ver/801/trunk/test/resources/teststyles/simple/overlays
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mkgmap/!svn/ver/785/trunk/test/resources/teststyles/simple/version
+END

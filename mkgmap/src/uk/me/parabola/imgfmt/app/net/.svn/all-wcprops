@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mkgmap/!svn/ver/2108/trunk/src/uk/me/parabola/imgfmt/app/net
+END
+NETFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mkgmap/!svn/ver/2037/trunk/src/uk/me/parabola/imgfmt/app/net/NETFileReader.java
+END
+RoadIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/843/trunk/src/uk/me/parabola/imgfmt/app/net/RoadIndex.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/842/trunk/src/uk/me/parabola/imgfmt/app/net/package.html
+END
+NODFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/imgfmt/app/net/NODFile.java
+END
+RouteRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/imgfmt/app/net/RouteRestriction.java
+END
+RouteArc.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/imgfmt/app/net/RouteArc.java
+END
+NETFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/2108/trunk/src/uk/me/parabola/imgfmt/app/net/NETFile.java
+END
+TableA.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/1771/trunk/src/uk/me/parabola/imgfmt/app/net/TableA.java
+END
+NOD1Part.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/imgfmt/app/net/NOD1Part.java
+END
+TableB.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/1570/trunk/src/uk/me/parabola/imgfmt/app/net/TableB.java
+END
+NODHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/imgfmt/app/net/NODHeader.java
+END
+TableC.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/1571/trunk/src/uk/me/parabola/imgfmt/app/net/TableC.java
+END
+RouteCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/imgfmt/app/net/RouteCenter.java
+END
+NETHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/1283/trunk/src/uk/me/parabola/imgfmt/app/net/NETHeader.java
+END
+RouteNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/1771/trunk/src/uk/me/parabola/imgfmt/app/net/RouteNode.java
+END
+RoadDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/2100/trunk/src/uk/me/parabola/imgfmt/app/net/RoadDef.java
+END

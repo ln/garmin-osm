@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/mkgmap/!svn/ver/2315/trunk/test/func
+END
+SimpleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mkgmap/!svn/ver/2162/trunk/test/func/SimpleTest.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mkgmap/!svn/ver/836/trunk/test/func/Base.java
+END
+ArgsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mkgmap/!svn/ver/1288/trunk/test/func/ArgsTest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mkgmap/!svn/ver/831/trunk/test/func/package.html
+END
+StructureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mkgmap/!svn/ver/1288/trunk/test/func/StructureTest.java
+END

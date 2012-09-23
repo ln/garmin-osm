@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mkgmap/!svn/ver/2188/trunk/src/uk/me/parabola/imgfmt/app/typ
+END
+Rgb.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/Rgb.java
+END
+TypLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/TypLabel.java
+END
+TYPFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/TYPFile.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/507/trunk/src/uk/me/parabola/imgfmt/app/typ/package.html
+END
+ColourInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2188/trunk/src/uk/me/parabola/imgfmt/app/typ/ColourInfo.java
+END
+BitmapImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/BitmapImage.java
+END
+TrueImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2188/trunk/src/uk/me/parabola/imgfmt/app/typ/TrueImage.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/Image.java
+END
+ShapeStacking.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mkgmap/!svn/ver/2139/trunk/src/uk/me/parabola/imgfmt/app/typ/ShapeStacking.java
+END
+TypLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/TypLine.java
+END
+TypPolygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2151/trunk/src/uk/me/parabola/imgfmt/app/typ/TypPolygon.java
+END
+TYPHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/TYPHeader.java
+END
+AlphaAdder.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2188/trunk/src/uk/me/parabola/imgfmt/app/typ/AlphaAdder.java
+END
+TypElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2151/trunk/src/uk/me/parabola/imgfmt/app/typ/TypElement.java
+END
+TypPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/TypPoint.java
+END
+DrawOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2139/trunk/src/uk/me/parabola/imgfmt/app/typ/DrawOrder.java
+END
+TypLabelException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/TypLabelException.java
+END
+TypParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/2070/trunk/src/uk/me/parabola/imgfmt/app/typ/TypParam.java
+END
+TypIconSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/TypIconSet.java
+END
+RgbWithTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/RgbWithTag.java
+END
+Xpm.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/Xpm.java
+END
+TypData.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/2132/trunk/src/uk/me/parabola/imgfmt/app/typ/TypData.java
+END

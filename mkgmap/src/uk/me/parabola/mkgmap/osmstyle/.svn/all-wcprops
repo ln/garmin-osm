@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mkgmap/!svn/ver/2313/trunk/src/uk/me/parabola/mkgmap/osmstyle
+END
+MapFeatureReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mkgmap/!svn/ver/1548/trunk/src/uk/me/parabola/mkgmap/osmstyle/MapFeatureReader.java
+END
+RuleDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/1771/trunk/src/uk/me/parabola/mkgmap/osmstyle/RuleDetails.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/694/trunk/src/uk/me/parabola/mkgmap/osmstyle/package.html
+END
+StyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2097/trunk/src/uk/me/parabola/mkgmap/osmstyle/StyleImpl.java
+END
+RuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mkgmap/!svn/ver/2158/trunk/src/uk/me/parabola/mkgmap/osmstyle/RuleSet.java
+END
+StyleFileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/1888/trunk/src/uk/me/parabola/mkgmap/osmstyle/StyleFileLoader.java
+END
+ExpressionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/1548/trunk/src/uk/me/parabola/mkgmap/osmstyle/ExpressionRule.java
+END
+CombinedStyleFileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/mkgmap/osmstyle/CombinedStyleFileLoader.java
+END
+RuleFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mkgmap/!svn/ver/2297/trunk/src/uk/me/parabola/mkgmap/osmstyle/RuleFileReader.java
+END
+DirectoryFileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/999/trunk/src/uk/me/parabola/mkgmap/osmstyle/DirectoryFileLoader.java
+END
+StyledConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/2068/trunk/src/uk/me/parabola/mkgmap/osmstyle/StyledConverter.java
+END
+RuleIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mkgmap/!svn/ver/2158/trunk/src/uk/me/parabola/mkgmap/osmstyle/RuleIndex.java
+END
+JarFileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mkgmap/!svn/ver/1163/trunk/src/uk/me/parabola/mkgmap/osmstyle/JarFileLoader.java
+END
+TypeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/2023/trunk/src/uk/me/parabola/mkgmap/osmstyle/TypeReader.java
+END
+StylePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mkgmap/!svn/ver/2097/trunk/src/uk/me/parabola/mkgmap/osmstyle/StylePrinter.java
+END
+OverlayReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/mkgmap/osmstyle/OverlayReader.java
+END
+ActionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mkgmap/!svn/ver/1564/trunk/src/uk/me/parabola/mkgmap/osmstyle/ActionRule.java
+END

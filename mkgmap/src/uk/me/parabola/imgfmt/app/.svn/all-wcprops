@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mkgmap/!svn/ver/2316/trunk/src/uk/me/parabola/imgfmt/app
+END
+Coord.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mkgmap/!svn/ver/2159/trunk/src/uk/me/parabola/imgfmt/app/Coord.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mkgmap/!svn/ver/1899/trunk/src/uk/me/parabola/imgfmt/app/Area.java
+END
+ImgFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/ImgFileWriter.java
+END
+Exit.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/imgfmt/app/Exit.java
+END
+BitWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/1751/trunk/src/uk/me/parabola/imgfmt/app/BitWriter.java
+END
+BufferedImgFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/BufferedImgFileWriter.java
+END
+CoordNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/1406/trunk/src/uk/me/parabola/imgfmt/app/CoordNode.java
+END
+ImgFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/imgfmt/app/ImgFile.java
+END
+Writeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/2197/trunk/src/uk/me/parabola/imgfmt/app/Writeable.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mkgmap/!svn/ver/973/trunk/src/uk/me/parabola/imgfmt/app/package.html
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mkgmap/!svn/ver/1926/trunk/src/uk/me/parabola/imgfmt/app/Label.java
+END
+ImgReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/1650/trunk/src/uk/me/parabola/imgfmt/app/ImgReader.java
+END
+ImgFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/ImgFileReader.java
+END
+CommonHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mkgmap/!svn/ver/845/trunk/src/uk/me/parabola/imgfmt/app/CommonHeader.java
+END
+BitReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mkgmap/!svn/ver/1651/trunk/src/uk/me/parabola/imgfmt/app/BitReader.java
+END
+SectionWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2045/trunk/src/uk/me/parabola/imgfmt/app/SectionWriter.java
+END
+BufferedImgFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mkgmap/!svn/ver/1870/trunk/src/uk/me/parabola/imgfmt/app/BufferedImgFileReader.java
+END
+FileBackedImgFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mkgmap/!svn/ver/2046/trunk/src/uk/me/parabola/imgfmt/app/FileBackedImgFileWriter.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/2070/trunk/src/uk/me/parabola/imgfmt/app/Section.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mkgmap/!svn/ver/2268/trunk/scripts/download
+END
+mksnapindex
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mkgmap/!svn/ver/2237/trunk/scripts/download/mksnapindex
+END
+mkgmap-skel-top
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mkgmap/!svn/ver/2237/trunk/scripts/download/mkgmap-skel-top
+END
+mksnapfuncs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mkgmap/!svn/ver/2237/trunk/scripts/download/mksnapfuncs
+END
+mksnap
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mkgmap/!svn/ver/2268/trunk/scripts/download/mksnap
+END
+recentversions
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mkgmap/!svn/ver/2237/trunk/scripts/download/recentversions
+END
+mkgmap-skel-bot
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mkgmap/!svn/ver/2237/trunk/scripts/download/mkgmap-skel-bot
+END
+mksnapclean
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mkgmap/!svn/ver/2237/trunk/scripts/download/mksnapclean
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mkgmap/!svn/ver/2237/trunk/scripts/download/README
+END
+mksnapbranches
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mkgmap/!svn/ver/2267/trunk/scripts/download/mksnapbranches
+END

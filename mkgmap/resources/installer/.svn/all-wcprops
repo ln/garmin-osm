@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mkgmap/!svn/ver/2232/trunk/resources/installer
+END
+license_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mkgmap/!svn/ver/1889/trunk/resources/installer/license_template.txt
+END
+installer_template.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/2232/trunk/resources/installer/installer_template.nsi
+END

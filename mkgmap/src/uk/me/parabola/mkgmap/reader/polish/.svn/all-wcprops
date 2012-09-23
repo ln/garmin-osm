@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mkgmap/!svn/ver/2310/trunk/src/uk/me/parabola/mkgmap/reader/polish
+END
+PolishMapDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mkgmap/!svn/ver/2310/trunk/src/uk/me/parabola/mkgmap/reader/polish/PolishMapDataSource.java
+END
+PolishTurnRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mkgmap/!svn/ver/2310/trunk/src/uk/me/parabola/mkgmap/reader/polish/PolishTurnRestriction.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mkgmap/!svn/ver/973/trunk/src/uk/me/parabola/mkgmap/reader/polish/package.html
+END
+RestrictionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mkgmap/!svn/ver/2310/trunk/src/uk/me/parabola/mkgmap/reader/polish/RestrictionHelper.java
+END
+RoadHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mkgmap/!svn/ver/2310/trunk/src/uk/me/parabola/mkgmap/reader/polish/RoadHelper.java
+END

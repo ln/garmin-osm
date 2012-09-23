@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mkgmap/!svn/ver/2328/trunk/src/uk/me/parabola/mkgmap
+END
+CommandArgsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/mkgmap/CommandArgsReader.java
+END
+ArgumentProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mkgmap/!svn/ver/1363/trunk/src/uk/me/parabola/mkgmap/ArgumentProcessor.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mkgmap/!svn/ver/2267/trunk/src/uk/me/parabola/mkgmap/Version.java
+END
+Option.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mkgmap/!svn/ver/1703/trunk/src/uk/me/parabola/mkgmap/Option.java
+END
+OptionProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mkgmap/!svn/ver/694/trunk/src/uk/me/parabola/mkgmap/OptionProcessor.java
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mkgmap/!svn/ver/1655/trunk/src/uk/me/parabola/mkgmap/Options.java
+END
+CommandArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mkgmap/!svn/ver/2306/trunk/src/uk/me/parabola/mkgmap/CommandArgs.java
+END

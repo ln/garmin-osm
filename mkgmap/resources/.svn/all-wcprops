@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/mkgmap/!svn/ver/2314/trunk/resources
+END
+map-features.csv
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mkgmap/!svn/ver/666/trunk/resources/map-features.csv
+END
+LocatorConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mkgmap/!svn/ver/2203/trunk/resources/LocatorConfig.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mkgmap/!svn/ver/295/trunk/resources/README
+END
+garmin_feature_list.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mkgmap/!svn/ver/1083/trunk/resources/garmin_feature_list.csv
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mkgmap/!svn/ver/235/trunk/resources/logging.properties
+END
+osm_garmin_map.csv
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mkgmap/!svn/ver/666/trunk/resources/osm_garmin_map.csv
+END
