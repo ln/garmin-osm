@@ -17,7 +17,7 @@ haye: haye.osm
 #	$(TYP)
 
 clean:
-	rm gmapsupp.img haye.osm
+	rm -f gmapsupp.img haye.osm 6*img osmmap*
 
 .PHONY: haye
 
