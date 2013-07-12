@@ -15,9 +15,18 @@ all: haye
 bdx.osm:
 	wget 'http://www.overpass-api.de/api/xapi?map?bbox=-0.62,44.8,-0.54,44.86[@meta]' -O $@
 
+lille.osm:
+	wget 'http://www.overpass-api.de/api/xapi?map?bbox=-3.035,50.597,3.174,50.634[@meta]' -O $@
+
+parisest.osm:
+	wget 'http://www.overpass-api.de/api/xapi?map?bbox=2.348156,48.8727318,2.401371,48.9026998[@meta]' -O $@
+
+
 nantes.osm:
 	wget 'http://www.overpass-api.de/api/xapi?map?bbox=-1.63,47.18,-1.45,47.31[@meta]' -O $@
 
+rennes.osm:
+	wget 'http://www.overpass-api.de/api/xapi?map?bbox=-1.70,48.10,-1.64,48.13[@meta]' -O $@
 
 %.img: %.osm
 	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile $< 
@@ -28,6 +37,12 @@ haye.osm:
 	wget 'http://www.overpass-api.de/api/xapi?map?bbox=5.96,48.6,6.18,48.73[@meta]' -O haye-raw.osm
 	./name-ways-with-type < haye-raw.osm > haye.osm
 	rm -f haye-raw.osm
+
+vaumarcus.osm:
+	wget 'http://www.overpass-api.de/api/xapi?map?bbox=6.6,46.8,6.8,47.0[@meta]' -O vaumarcus-raw.osm
+	./name-ways-with-type < vaumarcus-raw.osm > vaumarcus.osm
+	rm -f vaumarcus-raw.osm
+
 
 munster.osm:
 	wget 'http://www.overpass-api.de/api/xapi?map?bbox=7.04,48.02,7.13,48.056[@meta]' -O munster-raw.osm
