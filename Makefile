@@ -1,6 +1,22 @@
 FID=900
 TYP=M00000.typ
 
+altmatt.osm:
+	curl --compressed -o altmatt-raw.osm 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=6.80,48.00,7.34,48.09'
+#	wget 'http://www.overpass-api.de/api/xapi?map?bbox=6.99,48.01,7.13,48.06[@meta]' -O altmatt-raw.osm
+	./name-ways-with-type < altmatt-raw.osm > altmatt.osm
+#	rm -f altmatt-raw.osm
+
+altmatt: altmatt.osm
+	NAME=altmatt-osm
+	./gmt -wy $(FID) $(TYP)
+	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile altmatt.osm altmatt-fixme.osm 73910003.img	$(TYP)
+
+
+s2507.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=7.02,48.03,7.21,48.12'
+
+
 holandsbourg.osm:
 	wget 'http://www.overpass-api.de/api/xapi?map?bbox=7.12,47.93,7.31,48.08[@meta]' -O $@
 
@@ -28,6 +44,9 @@ nantes.osm:
 rennes.osm:
 	wget 'http://www.overpass-api.de/api/xapi?map?bbox=-1.70,48.10,-1.64,48.13[@meta]' -O $@
 
+lugano.osm:
+	wget 'http://www.overpass-api.de/api/xapi?map?bbox=8.9,45.98,9.01,46.04[@meta]' -O $@
+
 %.img: %.osm
 	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile $< 
 	mv gmapsupp.img $@
@@ -39,15 +58,9 @@ haye.osm:
 	rm -f haye-raw.osm
 
 vaumarcus.osm:
-	wget 'http://www.overpass-api.de/api/xapi?map?bbox=6.6,46.8,6.8,47.0[@meta]' -O vaumarcus-raw.osm
+	curl --compressed -o vaumarcus-raw.osm 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=6.6,46.8,6.8,47.0'
 	./name-ways-with-type < vaumarcus-raw.osm > vaumarcus.osm
 	rm -f vaumarcus-raw.osm
-
-
-munster.osm:
-	wget 'http://www.overpass-api.de/api/xapi?map?bbox=7.04,48.02,7.13,48.056[@meta]' -O munster-raw.osm
-	./name-ways-with-type < munster-raw.osm > munster.osm
-#	rm -f munster-raw.osm
 
 
 veyrier.osm:
@@ -59,6 +72,11 @@ munster: munster.osm
 	./gmt -wy $(FID) $(TYP)
 	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile munster.osm 73910003.img	$(TYP)
 
+# 73910003.img is the only contour file needed for alsace/lorraine, stolen from openmtbmap.org.
+vaumarcus: vaumarcus.osm
+	NAME=haye-osm
+	./gmt -wy $(FID) $(TYP)
+	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile vaumarcus.osm 7327*.img $(TYP)
 
 # 73910003.img is the only contour file needed for alsace/lorraine, stolen from openmtbmap.org.
 haye: haye.osm
