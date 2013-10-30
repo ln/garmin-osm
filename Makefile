@@ -12,6 +12,14 @@ altmatt: altmatt.osm
 	./gmt -wy $(FID) $(TYP)
 	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile altmatt.osm altmatt-fixme.osm 73910003.img	$(TYP)
 
+ramon.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=6.70,47.86,6.77,47.91'
+
+edimbourg.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=-3.5,55.91,-3.15,55.97'
+
+
+
 
 s2507.osm:
 	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=7.02,48.03,7.21,48.12'
@@ -53,12 +61,12 @@ lugano.osm:
 
 
 haye.osm:
-	wget 'http://www.overpass-api.de/api/xapi?map?bbox=5.96,48.6,6.18,48.73[@meta]' -O haye-raw.osm
+	curl --compressed -o haye-raw.osm 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=5.96,48.6,6.18,48.73'
 	./name-ways-with-type < haye-raw.osm > haye.osm
 	rm -f haye-raw.osm
 
 vaumarcus.osm:
-	curl --compressed -o vaumarcus-raw.osm 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=6.6,46.8,6.8,47.0'
+	curl --compressed -o vaumarcus-raw.osm 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=6.6,46.8,6.95,47.02'
 	./name-ways-with-type < vaumarcus-raw.osm > vaumarcus.osm
 	rm -f vaumarcus-raw.osm
 
@@ -76,7 +84,7 @@ munster: munster.osm
 vaumarcus: vaumarcus.osm
 	NAME=haye-osm
 	./gmt -wy $(FID) $(TYP)
-	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile vaumarcus.osm 7327*.img $(TYP)
+	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile vaumarcus.osm 73270006.img $(TYP)
 
 # 73910003.img is the only contour file needed for alsace/lorraine, stolen from openmtbmap.org.
 haye: haye.osm
