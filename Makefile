@@ -18,8 +18,32 @@ ramon.osm:
 edimbourg.osm:
 	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=-3.5,55.91,-3.15,55.97'
 
+montpellier.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=3.87,43.60,3.9,43.62'
 
+grenoble.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=5.67,45.14,5.85,45.23'
 
+denver.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=-105.01,39.73,-104.96,39.75'
+
+paris.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=2.25,48.81,2.42,48.91'
+
+nice.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=7.18,43.64,7.33,43.77'
+
+bruxelles.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=4.24,50.78,4.53,50.92'
+
+gesse.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=6.77,47.98,7.01,48.09'
+
+gesse: gesse.osm
+	NAME=gesse-osm
+	./gmt -wy $(FID) $(TYP)
+	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile gesse.osm gesse-fixme.osm 73910003.img	$(TYP)
+	cp gmapsupp.img gesse.img
 
 s2507.osm:
 	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=7.02,48.03,7.21,48.12'
