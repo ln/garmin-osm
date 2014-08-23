@@ -11,12 +11,21 @@ altmatt: altmatt.osm
 	NAME=altmatt-osm
 	./gmt -wy $(FID) $(TYP)
 	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile altmatt.osm altmatt-fixme.osm 73910003.img	$(TYP)
+	
+dc14.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=-122.70,45.50,-122.66,45.54'
+
+neuch.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=6.89,46.97,6.97,47.01'
+
+bono.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=-2.97,47.62,-2.92,47.64'
 
 ramon.osm:
 	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=6.70,47.86,6.77,47.91'
 
 edimbourg.osm:
-	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=-3.5,55.91,-3.15,55.97'
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=-3.25,55.92,-3.20,55.93'
 
 montpellier.osm:
 	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=3.87,43.60,3.9,43.62'
@@ -37,13 +46,26 @@ bruxelles.osm:
 	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=4.24,50.78,4.53,50.92'
 
 gesse.osm:
-	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=6.77,47.98,7.01,48.09'
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=6.77,47.92,7.01,48.09'
+
+chan.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=6.33,47.90,6.70,48.04'
+
+guangzhou.osm:
+	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=113.10,23.02,113.45,23.24'
 
 gesse: gesse.osm
 	NAME=gesse-osm
 	./gmt -wy $(FID) $(TYP)
 	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile gesse.osm gesse-fixme.osm 73910003.img	$(TYP)
 	cp gmapsupp.img gesse.img
+
+chan: chan.osm
+	NAME=chan-osm
+	./gmt -wy $(FID) $(TYP)
+	java -jar -Xmx2048M mkgmap.jar --latin1 --family-id=$(FID) --show-profiles=1 --route --add-pois-to-areas --index --product-id=1 --description=$(MYMAP) --series-name=$(MYMAP) --family-name=$(MYMAP) --gmapsupp --tdbfile chan.osm 73910003.img	$(TYP)
+	cp gmapsupp.img chan.img
+
 
 s2507.osm:
 	curl --compressed -o $@ 'http://api.openstreetmap.fr/xapi-without-meta?map?bbox=7.02,48.03,7.21,48.12'
